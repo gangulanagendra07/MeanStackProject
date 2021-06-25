@@ -1,0 +1,8 @@
+mat-form-field
+{
+width: 100%;
+border-radius: 1rem;
+}
+mat-spinner {
+  margin: auto;
+}
